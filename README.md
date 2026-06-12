@@ -1,26 +1,18 @@
 
 <header>
-   
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<body>
  
-## Olá me chamo Damiro! 
- mas pode me chamar de Dan :)
+ Olá me chamo Damiro!
 
 
-<div align="center">
-  <a href="https://github.com/damirojr">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=damirojr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damirojr&layout=compact&langs_count=7&theme=dracula"/>
-</div>   
+
 <div>   
    <img hight="200" width="250" alt="GIF" align="right" src="https://github.com/damirojr/damirojr/blob/afe9c08cf24002540a1326cc372927fac80bd418/assets/1936.gif">
-</div>   
+<br>
+<br>
+</div>
+
    <div align="left">  
-    <h5>🚀 My focus is: </h5>
-    <h5>☁️ Cloud computing, AWS, GCP and Azure.</h5>
-    <h5>💻 Developer in NodeJs, Python, C and more.</h5>
-   
+    <h5>☁️ Cloud computing, Azure, GCP and AWS.</h5> 
   </div>
 <div align="center">
    <h2 align="left">Skills ⚡</h2>
@@ -30,15 +22,10 @@
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg"> 
    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg">
-   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
-   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
-   <img height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
   
  </div>
 
